@@ -1,0 +1,314 @@
+img {
+    width: 100px;
+    padding-left: 25+px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    color:blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+h4 {
+    color: greenyellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+table {
+    border:2px solid;
+    text-align: center;
+    align-items: center;
+}
+
+td {
+    color:black;
+    border: 1px solid;
+}
+
+th {
+    color: black;
+    border: 1px solid;
+}
+
+/* class selector styling  */
+.red{
+    color: red;
+    font-size: 3rem;
+}
+
+.green{
+    color: green;
+    font-size: 2rem;
+}
+
+.blue{
+  color: rgb(9, 0, 128);
+  font-size: 4rem;    
+}
+
+img{
+    width: 200px;
+    padding-right: 200px auto; 
+    align-items: center;
+}
+
+.mynav:hover{
+    background-color: red;
+    color: blue;
+    margin-right: 1rem;
+    border-radius: 10px;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.food {
+    display: flex;
+    justify-content: center;
+}
+
+.PIK {
+    padding-left: 200px;
+}
+
+.PIKS {
+    padding-left: 600px;
+}
+
+.They {
+    padding-left: 250px;
+}
+
+.xxx {
+    width: 750px;
+    padding-left: 60px;
+}
+
+hr {
+    top: 1px;
+    height: 1px;
+    background: black;
+    margin-bottom: 10px;             
+}
+
+.Images { 
+    padding-left: 100px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.soc {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.him {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.bui {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.am{
+    color: black;
+}
+
+.amm{
+    align-items: center;
+    color: brown;
+}
+
+.ammm{
+    color: blueviolet;
+    font-size: 30px;
+} 
+
+.abb{ 
+    border-radius: 10px;
+}
+
+.ac{
+    color: blue;
+    padding-right: 2rem;
+}
+
+.acc{
+    color: rgb(79, 79, 169);
+    padding-right: 2rem;
+}
+
+.accc{
+    color: violet;
+    padding-right: 2rem;
+}
+
+.acccc{
+    color: rgb(43, 243, 43);
+}
+
+.aw{
+    text-align: center;
+    align-items: center;
+}
+
+.mynav1{
+    text-align: center;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.ab{
+    padding-bottom: 1rem;
+}
+
+.af{
+    padding-top: 1rem;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.sendbutton{
+    color: black;
+    border: none;
+    height: 40px;
+    width: auto;
+    margin: auto;
+    background-color: aqua;
+    font-size: 22px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+
+.button1 {
+    text-align: center;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+.button2 {
+    text-align: center;
+    align-items: center;
+}
+
+.asw {
+    border: 2px solid rgb(202, 135, 222);
+    padding-top: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+.sa {
+    background-image: url("wallpaperflare.com_wallpaper\ \(5\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aq {
+    padding-top: 7rem;
+}
+
+.qw {
+    color: mediumslateblue;
+    font-size: 30px;
+}
+
+.qwe {
+    background-image: url("wallpaperflare.com_wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.qwer {
+    color: black;
+}
+.qwert {
+    color: black;
+    font-size: 25px;
+}
+
+.qwerty {
+    color: black;
+}
+
+.zx {
+    color: rgb(89, 64, 64);
+}
+
+.zxc{
+    color: rgb(48, 25, 25);
+}
+
+.asdfg {
+    color: rgb(85, 63, 63);
+}
+
+.zxcv {
+    color: rgb(44, 82, 82);
+}
+
+.ccc {
+    background-color: aliceblue;
+}
+
+.xxxx {
+    display: flex;
+    justify-content: center;
+}
+
+.zxcb {
+    color: rgb(56, 6, 6);
+}
+.bbb {
+    background-color: rgb(187, 252, 252);
+}
+
+.bbbb {
+    background-color: aliceblue;
+}
+
+.dd {
+    top: 1px;
+    height: 1px;
+    background: black;
+    margin-bottom: 10px;
+}
+
+.ls {
+    display: flex;
+    justify-content: center;
+}
+
+.ik {
+    display: flex;
+    justify-content: center;
+}
